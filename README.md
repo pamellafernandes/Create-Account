@@ -12,7 +12,7 @@
 ### Tecnologias
 
 - [x] HTML5
-- [x] SASS
+- [x] SCSS
 - [x] JAVASCRIPT
 
 ### Inspiração
