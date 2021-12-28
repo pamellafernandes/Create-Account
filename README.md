@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<p align="center">Este projeto é baseado em uma tela de criar uma conta.</p>
+<p align="center">Este projeto é baseado em uma tela para criar uma conta.</p>
 
 ### Features
 
