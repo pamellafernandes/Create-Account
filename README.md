@@ -1,4 +1,4 @@
-<h1 align="center">Create Contact</h1>
+<h1 align="center">Create Account</h1>
 
 
 ## Descrição do Projeto
@@ -6,7 +6,7 @@
 
 ### Features
 
-- [x] Criar Conta
+- [x] Create Account
 
 
 ### Tecnologias
